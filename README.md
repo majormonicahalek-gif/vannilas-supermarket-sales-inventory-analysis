@@ -61,7 +61,10 @@ The raw data was intentionally messy. I cleaned it manually in Excel on a copy o
 
 **Slicers:** Department · Category · Date/Month
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](<img width="1104" height="362" alt="Screenshot 2026-11-10 110346" src="https://github.com/user-attachments/assets/22afa103-80a3-4eb0-8679-e096969bc357" />
+)
+<img width="1138" height="390" alt="Screenshot 2026-11-10 110505" src="https://github.com/user-attachments/assets/00e94876-8db7-42b2-b0be-f472d0b8cd20" />
+
 
 ## 🔍 Key Insights
 
